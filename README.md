@@ -1,7 +1,8 @@
 
 # Code for the ICLR 2026 paper "Composition of Pretrained Diffusion Models: A Logic-Based Calculus"
 
-This repository contains implementations and experiments adapted from several prior works.  
+This repository contains implementations and experiments adapted from several prior works.
+This repository is a downstream of [Peter-Blohm/Logic\_Diffusion](https://github.com/peter-blohm/logic_diffusion).
 
 ## Experiments
 
